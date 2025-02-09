@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    background: radial-gradient(circle, #0d1b2a, #1b263b, #415a77); /* Cosmic gradient */
+    font-family: 'Dancing Script', cursive; /* Romantic font */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow-y: auto; /* Enable vertical scrolling */
+    position: relative;
+    flex-direction: column;
+}
+
+.stars {
+    position: fixed; /* Keeps the stars fixed while scrolling */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Behind the content */
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 80%;
+    max-width: 600px;
+    min-height: 100vh; /* Ensures the container extends */
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.2); /* Semi-transparent container */
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(255, 255, 255, 0.2);
+    margin: 40px auto;
+    overflow-y: auto; /* Enables scrolling inside the letter container */
+}
+
+.letter {
+    font-size: 1.8rem;
+    line-height: 1.6;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    text-align: left;
+    transition: font-size 0.2s ease-in-out;
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 90%;
+        padding: 15px;
+    }
+
+    .letter {
+        font-size: 1.2rem;
+        line-height: 1.4;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .container {
+        padding: 10px;
+    }
+
+    .letter {
+        font-size: 1rem;
+        line-height: 1.3;
+    }
+}
+
+.letter-image {
+    display: block;
+    width: 100%; /* Make it responsive */
+    max-width: 400px; /* Adjust the max width */
+    margin: 20px auto; /* Center it */
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(255, 255, 255, 0.3);
+}
