@@ -44,7 +44,7 @@ typeLetter();
 // Function to add an image after letter typing completes
 function showImage() {
     const img = document.createElement("img");
-    img.src = "./Today's silliness___.jpg"; // Replace with your image file path
+    img.src = "./images/Today's silliness___.jpg"; // Replace with your image file path
     img.alt = "A meaningful image";
     img.classList.add("letter-image");
     container.appendChild(img);
