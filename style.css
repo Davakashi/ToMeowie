@@ -1,7 +1,7 @@
 body {
     margin: 0;
     background: radial-gradient(circle, #0d1b2a, #1b263b, #415a77); /* Cosmic gradient */
-    font-family: 'Dancing Script', cursive; /* Romantic font */
+    font-family: 'Dancing Script', cursive; 
     display: flex;
     justify-content: center;
     align-items: center;

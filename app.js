@@ -5,7 +5,7 @@ Crush box gd neg goe um bdgiin bn gedahguyu hhe. Gxde bi cin crush daa bish meow
 
 Gxde yamar azaar ene huntei ucirsn um bolo. Hariltsaa ehleed udaagu bhd helehed sonin c gsn yagaad c um ene huny hajuud bhda l aygu taivn, amgalan, neg az jarglaar bylhaad bga um shg sngddg bolcijee. 21 hurtsn barg l tom hun boltsn hernee ciny l hajuud jooxn huuhd shg bolchih umaa hhe.🥰
 
-Yg turuun yvuulsn reel shg "yasn mangar huuhd ve gej bodon bodsoor durlaj bilee❤️" gdg ug l yg bodit bodit baidal buulgsn zuraglal ni umuda hha. 
+Yg turuun yvuulsn reel shg "yasn mangar huuhd ve gej bodon bodsoor durlaj bilee ❤️" gdg ug l yg bodit bodit baidal buulgsn zuraglal ni umuda hha. 
 
 Cmtai hmt bgd, cmdaa erhleed, cmtai chatlaad ireh tusam neg l zuilees aidg bolcijee hhah. Ene huniig gomdoocih vii,ene huniig aldcih vii gsn aids🥺. Gsn c gsn aidsaasaa bolood yu c hiihgu bh bishde aii ugaasaa l meowie daa meow um cin <3. 
 
